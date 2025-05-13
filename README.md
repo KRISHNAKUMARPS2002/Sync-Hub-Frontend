@@ -132,14 +132,3 @@ This will generate optimized assets in the `dist/` directory that can be deploye
 | ------------ | ------------------------------ | ------------------------ |
 | VITE_API_URL | URL of the backend API service | https://your-backend-url |
 
-## 📄 License
-
-[License information goes here]
-
-## 👥 Contributing
-
-[Contributing guidelines go here]
-
-## 📞 Support
-
-For support or questions, please contact [contact information]
